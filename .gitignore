@@ -7,6 +7,9 @@
 # Ignore bundler config.
 /.bundle
 
+# Ignore bundler config.
+/config/databases.yml
+
 # Ignore all environment files.
 /.env*
 
